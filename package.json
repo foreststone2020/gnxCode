@@ -1,0 +1,13 @@
+{
+  "name": "gnxCode",
+  "version": "1.0.0",
+  "description": "gnx code for study",
+  "main": "index.js",
+  "repository": "https://github.com/foreststone2020/gnxCode.git",
+  "author": "foreststone2020 <whobroketheheart2020@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@uniswap/v3-core": "^1.0.1"
+  }
+}
